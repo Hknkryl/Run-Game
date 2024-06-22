@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HKNKRYL\\Runner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\users\\hknkryl\\runner\\assets\\cloneplayerontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\cloneplayerontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|c:\\users\\hknkryl\\runner\\assets\\klonsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\klonsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\HKNKRYL\\Runner\\assets\\kameratakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\kameratakip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|C:\\Users\\HKNKRYL\\Runner\\assets\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E2F6C6-1576-AED7-02C5-6D94F5E99C09}|Assembly-CSharp.csproj|solutionrelative:assets\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Klonsil.cs",
+              "DocumentMoniker": "C:\\Users\\HKNKRYL\\Runner\\Assets\\Klonsil.cs",
+              "RelativeDocumentMoniker": "Assets\\Klonsil.cs",
+              "ToolTip": "C:\\Users\\HKNKRYL\\Runner\\Assets\\Klonsil.cs",
+              "RelativeToolTip": "Assets\\Klonsil.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:56:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClonePlayerOnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\HKNKRYL\\Runner\\Assets\\ClonePlayerOnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\ClonePlayerOnTrigger.cs",
+              "ToolTip": "C:\\Users\\HKNKRYL\\Runner\\Assets\\ClonePlayerOnTrigger.cs",
+              "RelativeToolTip": "Assets\\ClonePlayerOnTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:53:54.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kameratakip.cs",
+              "DocumentMoniker": "C:\\Users\\HKNKRYL\\Runner\\Assets\\Kameratakip.cs",
+              "RelativeDocumentMoniker": "Assets\\Kameratakip.cs",
+              "ToolTip": "C:\\Users\\HKNKRYL\\Runner\\Assets\\Kameratakip.cs",
+              "RelativeToolTip": "Assets\\Kameratakip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:09:20.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Control.cs",
+              "DocumentMoniker": "C:\\Users\\HKNKRYL\\Runner\\Assets\\Control.cs",
+              "RelativeDocumentMoniker": "Assets\\Control.cs",
+              "ToolTip": "C:\\Users\\HKNKRYL\\Runner\\Assets\\Control.cs",
+              "RelativeToolTip": "Assets\\Control.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:57:36.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
